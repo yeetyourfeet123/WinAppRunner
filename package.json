@@ -1,0 +1,14 @@
+{
+  "name": "winapprunner",
+  "version": "1.0.0",
+  "description": "WinAppRunner web app bundling setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
